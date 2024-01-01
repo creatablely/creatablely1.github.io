@@ -1,6 +1,6 @@
 # Fake Yiban: 不一般的易班
 
-# [Start](https://supertsy5.github.io/fake-yiban/dist/)
+# [Start](https://creatablely1.github.io/fake-yiban/dist/)
 
 WARNING: This program is only used for demonstration and should not be abused. Use it at your own risk.
 
@@ -21,25 +21,7 @@ I use Android as an example here:
 4. Go to the menu and tap "Install App"(or something similar).
 进入菜单，点击“安装应用”（或者类似的）。
 
-## Project setup
-```
-npm install
-```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
